@@ -1,0 +1,6 @@
+main: net.tojsoft.mc.KilledByFirePlugin
+name: KilledByFire
+version: 1.0
+api-version: "1.16"
+author: thomas@tojsoft.net
+description: KilledByFire
